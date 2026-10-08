@@ -1,0 +1,8 @@
+/opt/homebrew/opt/agda/share/agda/stdlib/standard-library.agda-lib
+/opt/homebrew/opt/agda/share/agda/stdlib-classes/agda-stdlib-classes.agda-lib
+/opt/homebrew/opt/agda/share/agda/stdlib-meta/agda-stdlib-meta.agda-lib
+/opt/homebrew/opt/agda/share/agda/stdlib/doc/standard-library-doc.agda-lib
+/opt/homebrew/opt/agda/share/agda/cubical/cubical.agda-lib
+/opt/homebrew/opt/agda/share/agda/categories/agda-categories.agda-lib
+/opt/homebrew/opt/agda/share/agda/agda2hs/base/base.agda-lib
+/opt/homebrew/opt/agda/share/agda/agda2hs/containers/containers.agda-lib

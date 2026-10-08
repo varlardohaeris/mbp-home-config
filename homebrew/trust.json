@@ -1,0 +1,7 @@
+{
+  "trustedformulae": [
+    "daipeihust/tap/im-select",
+    "jandedobbeleer/oh-my-posh/oh-my-posh",
+    "jetbrains/utils/kotlin-lsp"
+  ]
+}

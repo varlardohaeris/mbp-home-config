@@ -1,0 +1,7 @@
+Time (μs)   Sum (μs)  Command
+         2          2 > exit
+         3        390 > _tide_on_fish_exit 0
+         6        387 -> set -e $prompt_var
+         5        381 --> _tide_refresh_prompt VARIABLE ERASE _tide_prompt_44901
+       358        358 ---> set -g _tide_repaint
+        18         18 ---> commandline -f repaint

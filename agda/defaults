@@ -1,0 +1,7 @@
+standard-library
+standard-library-classes
+standard-library-meta
+cubical
+agda-categories
+agda2hs-base
+agda2hs-containers
